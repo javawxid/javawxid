@@ -12,7 +12,7 @@
 
 [![Page Views Count](https://badges.toozhao.com/badges/01HEPJD0P1SY691SQZ3MC3MQH1/green.svg)](https://badges.toozhao.com/stats/01HEPJD0P1SY691SQZ3MC3MQH1 "个人主页访问次数")
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=javawxid&show_icons=true&theme=dark&count_private=true)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=javawxid&show_icons=true&theme=dark&count_private=true)](https://github.com/javawxid)
 
 [![CSDN](https://stats.justsong.cn/api/csdn?id=java_wxid&theme=dark)](https://blog.csdn.net/java_wxid)
 
