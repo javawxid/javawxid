@@ -4,9 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 <p>
-  个人主页访问次数：<img src="https://profile-counter.glitch.me/github/count.svg" />
-</p>
-<p>
 <img src="https://img.shields.io/static/v1?label=Program&message=java&color=blue"/>
 <a href="https://blog.csdn.net/java_wxid"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 <a href="https://space.bilibili.com/353586723"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
@@ -16,11 +13,14 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=javawxid&show_icons=true&theme=dark&count_private=true)
 
+[![Page Views Count](https://badges.toozhao.com/badges/01HEPJD0P1SY691SQZ3MC3MQH1/green.svg)](https://badges.toozhao.com/stats/01HEPJD0P1SY691SQZ3MC3MQH1 "个人主页访问次数")
+
 ![Github Readme Activity Graph](https://activity-graph.herokuapp.com/graph?username=javawxid&theme=github)
 
 ![csdn](https://stats.justsong.cn/api/csdn?id=java_wxid&theme=dark)
 
 ![bilibili](https://stats.justsong.cn/api/bilibili/?id=353586723&theme=dark)
+
 
 
 
