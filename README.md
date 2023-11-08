@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 <p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/javawxid&right_color=red" />
+<img src="https://profile-counter.glitch.me/github/count.svg&right_color=red" />
 <img src="https://img.shields.io/static/v1?label=Program&message=java&color=blue"/>
 <a href="https://blog.csdn.net/java_wxid"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 <a href="https://space.bilibili.com/353586723"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
