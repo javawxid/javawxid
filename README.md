@@ -11,9 +11,13 @@
 </p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javawxid&theme=dark&layout=compact)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=javawxid&show_icons=true&theme=dark&count_private=true)
+
 ![Github Readme Activity Graph](https://activity-graph.herokuapp.com/graph?username=javawxid&theme=github)
+
 ![csdn](https://stats.justsong.cn/api/csdn?id=java_wxid&theme=dark)
+
 ![bilibili](https://stats.justsong.cn/api/bilibili/?id=353586723&theme=dark)
 
 
@@ -29,10 +33,10 @@
 ## 联系我
 
 - 微信：java_wxid
-- 邮箱：javawxid@aliyun.com
-- QQ：2469278741
+- 邮箱：java_wxid@aliyun.com
+- QQ号：2469278741
 - 微信公众号：我是廖志伟
-- 个人主页：[Github](https://javawxid.github.io/)
+- 个人主页：[Github](https://github.com/javawxid)
 - 个人博客：[CSDN](https://blog.csdn.net/java_wxid)
 - 个人视频：[Bilibili](https://space.bilibili.com/353586723)
 
