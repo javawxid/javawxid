@@ -12,15 +12,11 @@
 
 [![Page Views Count](https://badges.toozhao.com/badges/01HEPJD0P1SY691SQZ3MC3MQH1/green.svg)](https://badges.toozhao.com/stats/01HEPJD0P1SY691SQZ3MC3MQH1 "个人主页访问次数")
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javawxid&theme=dark&layout=compact)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=javawxid&show_icons=true&theme=dark&count_private=true)
 
-![Github Readme Activity Graph](https://activity-graph.herokuapp.com/graph?username=javawxid&theme=github)
+![CSDN](https://stats.justsong.cn/api/csdn?id=java_wxid&theme=dark)
 
-![csdn](https://stats.justsong.cn/api/csdn?id=java_wxid&theme=dark)
-
-![bilibili](https://stats.justsong.cn/api/bilibili/?id=353586723&theme=dark)
+![Bilibili](https://stats.justsong.cn/api/bilibili/?id=353586723&theme=dark)
 
 
 
