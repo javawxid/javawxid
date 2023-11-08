@@ -14,7 +14,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=javawxid&show_icons=true&theme=dark&count_private=true)
 
-[![CSDN](https://stats.justsong.cn/api/csdn?id=java_wxid&theme=dark)(https://blog.csdn.net/java_wxid)]
+[![CSDN](https://stats.justsong.cn/api/csdn?id=java_wxid&theme=dark)](https://blog.csdn.net/java_wxid)
 
 ![Bilibili](https://stats.justsong.cn/api/bilibili/?id=353586723&theme=dark)
 
