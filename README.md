@@ -28,10 +28,9 @@
 
 ## 自我介绍
 
-- 我是廖志伟，一个Java程序员。
-- 我喜欢Java，因为它是一种简单、易于学习、易于使用、易于维护的编程语言。
-- 我喜欢开源，因为它使我能够在不断学习的同时，也能够在不断成长的过程中，为世界做出贡献。
-- 我喜欢开源项目，因为它使我能够在不断学习的同时，也能够 在不断成长的过程中，为世界做出贡献。
+- 我是廖志伟，一名Java开发工程师、Java领域优质创作者、CSDN博客专家、51CTO专家博主、阿里云专家博主、清华大学出版社作者。
+- 拥有多年一线研发和团队管理经验，研究过主流框架的底层源码(Spring、SpringBoot、Spring MVC、SpringCould、Mybatis、Dubbo、Zookeeper)，消息中间件底层架构原理(RabbitMQ、RockerMQ、Kafka)、Redis缓存、MySQL关系型数据库、 ElasticSearch全文搜索、MongoDB非关系型数据库、ShardingSphere分库分表读写分离、设计模式、领域驱动DDD、容器编排Kubernetes等。
+- 独立出版技术类图书《Java项目实战——深入理解大型互联网企业通用技术》基础篇、进阶篇、架构篇）三本、表达类图书《解密程序员的思维密码--沟通、演讲、思考的实践》一本。
 
 ## 联系我
 
@@ -39,6 +38,8 @@
 - 邮箱：java_wxid@aliyun.com
 - QQ号：2469278741
 - 微信公众号：我是廖志伟
+
+  ## 关注我
 - 个人主页：[Github](https://github.com/javawxid)
 - 个人博客：[CSDN](https://blog.csdn.net/java_wxid)
 - 个人视频：[Bilibili](https://space.bilibili.com/353586723)
