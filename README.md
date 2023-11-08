@@ -16,7 +16,7 @@
 
 [![CSDN](https://stats.justsong.cn/api/csdn?id=java_wxid&theme=dark)](https://blog.csdn.net/java_wxid)
 
-![Bilibili](https://stats.justsong.cn/api/bilibili/?id=353586723&theme=dark)
+[![Bilibili](https://stats.justsong.cn/api/bilibili/?id=353586723&theme=dark)](https://space.bilibili.com/353586723)
 
 
 
