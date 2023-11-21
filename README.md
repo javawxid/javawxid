@@ -22,19 +22,23 @@
 
 [![Page Views Count](https://badges.toozhao.com/badges/01HEPJD0P1SY691SQZ3MC3MQH1/green.svg)](https://badges.toozhao.com/stats/01HEPJD0P1SY691SQZ3MC3MQH1 "个人主页访问次数")
 
-## 📌联系我
 
-- 微信：java_wxid
-- 邮箱：java_wxid@aliyun.com
-- QQ号：2469278741
-- 微信公众号：我是廖志伟
+## ❤️关注我
+### 🔊个人主页：[Github](https://github.com/javawxid)
 
 
-  ## ❤️关注我
-- 个人主页：[Github](https://github.com/javawxid)
-- 个人博客：[CSDN](https://blog.csdn.net/java_wxid)
-- 个人视频：[Bilibili](https://space.bilibili.com/353586723)
+### 📚个人博客
 
+[CSDN](https://blog.csdn.net/java_wxid)
+
+[![CSDN](https://stats.justsong.cn/api/csdn?id=java_wxid&theme=dark)](https://blog.csdn.net/java_wxid)
+
+### 📺个人视频
+
+[Bilibili](https://space.bilibili.com/353586723)
+
+
+[![Bilibili](https://stats.justsong.cn/api/bilibili/?id=353586723&theme=dark)](https://space.bilibili.com/353586723)
 
 ## 📥人生感悟和目标
 - 🍋程序开发这条路不能停，停下来容易被淘汰掉，吃不了自律的苦，就要受平庸的罪，持续的能力才能带来持续的自信。我本是一个很普通的程序员，放在人堆里，除了与生俱来的盛世美颜，就剩180的大高个了，就是我这样的一个人，默默写博文也有好多年了。
@@ -43,7 +47,10 @@
 - 🎉这个目标的实现需要不懈的努力和持续的成长，但我必须努力追求。因为我知道，只有成为这样的人才，我才能在职业生涯中不断前进并为企业的发展带来真正的价值。在这个不断变化的时代，我们必须随时准备好迎接挑战，不断学习和探索新的领域，才能不断地向前推进。我坚信，只要我不断努力，我一定会达到自己的目标。
 
 
+## 📌联系我
 
-[![CSDN](https://stats.justsong.cn/api/csdn?id=java_wxid&theme=dark)](https://blog.csdn.net/java_wxid)
+- 微信：java_wxid
+- 邮箱：java_wxid@aliyun.com
+- QQ号：2469278741
+- 微信公众号：我是廖志伟
 
-[![Bilibili](https://stats.justsong.cn/api/bilibili/?id=353586723&theme=dark)](https://space.bilibili.com/353586723)
