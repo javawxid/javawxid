@@ -18,8 +18,9 @@
 <img src="https://img.shields.io/static/v1?label=Program&message=java&color=blue"/>
 <a href="https://blog.csdn.net/java_wxid"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 <a href="https://space.bilibili.com/353586723"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
-[![Page Views Count](https://badges.toozhao.com/badges/01HEPJD0P1SY691SQZ3MC3MQH1/green.svg)](https://badges.toozhao.com/stats/01HEPJD0P1SY691SQZ3MC3MQH1 "个人主页访问次数")
 </p>
+
+[![Page Views Count](https://badges.toozhao.com/badges/01HEPJD0P1SY691SQZ3MC3MQH1/green.svg)](https://badges.toozhao.com/stats/01HEPJD0P1SY691SQZ3MC3MQH1 "个人主页访问次数")
 
 ## 📌联系我
 
