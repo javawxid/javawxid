@@ -29,13 +29,13 @@
 
 ### 📚个人博客
 
-[CSDN](https://blog.csdn.net/java_wxid)
+[CSDN传送](https://blog.csdn.net/java_wxid)
 
 [![CSDN](https://stats.justsong.cn/api/csdn?id=java_wxid&theme=dark)](https://blog.csdn.net/java_wxid)
 
 ### 📺个人视频
 
-[Bilibili](https://space.bilibili.com/353586723)
+[Bilibili传送](https://space.bilibili.com/353586723)
 
 
 [![Bilibili](https://stats.justsong.cn/api/bilibili/?id=353586723&theme=dark)](https://space.bilibili.com/353586723)
