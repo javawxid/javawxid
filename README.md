@@ -21,14 +21,15 @@
 - 🎥有从0到1的高并发项目经验，利用弹性伸缩、负载均衡、报警任务、自启动脚本、阿里云ACKServerless，最高压测过200台机器，QPS超10万，用户基数超百万，请求次数超千万，有着丰富的项目调优经验（服务器调优、Springboot项目调优、JVM调优、MySQL调优、Redis调优、消息中间件调优、ElasticSearch调优、项目架构调优、服务部署调优[服务器秒级部署、服务快速启动等]）。(I have experience in high concurrency projects from 0 to 1, utilizing elastic scaling, load balancing, alarm tasks, self starting scripts, and Alibaba Cloud ACKserverless. I have tested up to 200 machines with QPS exceeding 100000, user base exceeding one million, and request counts exceeding ten million, Having rich experience in project tuning (server tuning, Springboot project tuning, JVM tuning, MySQL tuning, Redis tuning, message middleware tuning, ElasticSearch tuning, project architecture tuning, service deployment tuning [server second level deployment, service quick start, etc.]).)
 - 📚独立出版技术类图书《Java项目实战——深入理解大型互联网企业通用技术》基础篇、进阶篇、架构篇）三本、表达类图书《解密程序员的思维密码--沟通、演讲、思考的实践》一本。(Independently published three technical books: "Java Project Practice - Deep Understanding of General Technologies for Large Internet Enterprises" (Basic, Advanced, and Architecture), and one expression book: "Decrypting the Thinking Password of Programmers - Practice of Communication, Speech, and Thinking".)
 
+![Github活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=javawxid&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javawxid)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ❤️关注我(Follow Me)
 
 ### 🔊个人主页（Homepage）：[Github传送](https://github.com/javawxid)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=javawxid&show_icons=true&theme=dark&count_private=true)](https://github.com/javawxid)
-
-![Github活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=javawxid&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
 ### 📚个人博客（Blog）：[CSDN传送](https://blog.csdn.net/java_wxid)
 
