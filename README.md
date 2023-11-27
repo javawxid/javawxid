@@ -23,8 +23,6 @@
 
 ![Github活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=javawxid&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javawxid)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ❤️关注我(Follow Me)
 
 ### 🔊个人主页（Homepage）：[Github传送](https://github.com/javawxid)
