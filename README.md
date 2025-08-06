@@ -10,9 +10,7 @@
 <a href="https://space.bilibili.com/353586723"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
 </p>
 
-当前页访问次数(Current page visits)：
 
-[![Page Views Count](https://badges.toozhao.com/badges/01HEPJD0P1SY691SQZ3MC3MQH1/green.svg)](https://badges.toozhao.com/stats/01HEPJD0P1SY691SQZ3MC3MQH1 "个人主页访问次数")
 
 ## 💂自我介绍(self-introduction)
 
